@@ -54,6 +54,13 @@ http://127.0.0.1:5000
 
 ### **2️⃣ Mobile App (Flutter)**
 
+#### Clone the repository
+```bash
+git clone https://github.com/Ashahad07/Object-Detection-Flutter.git
+cd Object-Detection-Flutter
+
+```
+
 #### Install dependencies
 ```bash
 flutter pub get
